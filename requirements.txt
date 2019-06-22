@@ -3,4 +3,4 @@ requests==2.20.0
 
 WTForms==2.1
 Flask-WTF==0.14.2
-bokeh
+bokeh==0.13.0
