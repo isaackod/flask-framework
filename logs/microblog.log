@@ -91,3 +91,4 @@ Traceback (most recent call last):
   File "/home/isaac/anaconda3/lib/python3.7/site-packages/flask/templating.py", line 86, in _get_source_fast
     raise TemplateNotFound(template)
 jinja2.exceptions.TemplateNotFound: index.html
+2019-06-22 17:01:13,651 INFO: Microblog startup [in /home/isaac/Documents/flask-framework/app/__init__.py:48]
