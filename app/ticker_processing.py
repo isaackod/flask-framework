@@ -7,7 +7,7 @@ from bokeh.plotting import figure, output_file, show
 base_url = "https://www.quandl.com/api/v3/datatables/WIKI/PRICES.json?"
 auth = f"&api_key={app.config['QUANDL_KEY']}"
 
-def load_ticker(ticker = "GOOG"):
+def load_ticker(ticker="GOOG"):
     req = base_url+f"ticker={ticker}"+auth
     r = requests.get(req)
     return r.json()
