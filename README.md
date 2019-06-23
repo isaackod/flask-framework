@@ -1,13 +1,8 @@
 # Flask on Heroku
+This is the finished version of the stock ticker app on heroku required for the data incubator prework.
 
-This project is intended to help you tie together some important concepts and
-technologies from the 12-day course, including Git, Flask, JSON, Pandas,
-Requests, Heroku, and Bokeh for visualization.
+I've left the original instructions below.
 
-The repository contains a basic template for a Flask configuration that will
-work on Heroku.
-
-A [finished example](https://lemurian.herokuapp.com) that demonstrates some basic functionality.
 
 ## Step 1: Setup and deploy
 - Git clone the existing template repository.
